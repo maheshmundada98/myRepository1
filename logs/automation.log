@@ -1,0 +1,13 @@
+2026-03-11 11:55:05 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-11 11:55:05 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-11 11:55:06 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-11 11:55:06 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-11 11:55:08 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-11 11:55:08 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-11 11:55:08 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-11 11:55:12 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-11 11:55:12 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-11 11:55:13 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-11 11:55:13 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-11 11:55:14 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-11 11:55:14 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
