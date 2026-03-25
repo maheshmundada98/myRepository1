@@ -1,13 +1,90 @@
-2026-03-11 11:55:05 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
-2026-03-11 11:55:05 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2026-03-11 11:55:06 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2026-03-11 11:55:06 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
-2026-03-11 11:55:08 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
-2026-03-11 11:55:08 INFO  TC_001_AccountRegistrationTest:48 - Test passed
-2026-03-11 11:55:08 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
-2026-03-11 11:55:12 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
-2026-03-11 11:55:12 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
-2026-03-11 11:55:13 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
-2026-03-11 11:55:13 INFO  TC_002_LoginTest:28 - Entering valid email and password..
-2026-03-11 11:55:14 INFO  TC_002_LoginTest:32 - clicked on login button..
-2026-03-11 11:55:14 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-03-25 11:11:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\TestNg_Project_Opencart\master.xml
+
+2026-03-25 11:11:36 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-25 11:11:37 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-25 11:11:37 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-25 11:11:38 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-25 11:11:40 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-25 11:11:40 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-25 11:11:40 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-25 11:11:44 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-25 11:11:44 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-25 11:11:45 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-25 11:11:45 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-25 11:11:47 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-25 11:11:47 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-03-25 11:19:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\TestNg_Project_Opencart\master.xml
+
+2026-03-25 11:19:58 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-25 11:19:58 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-25 11:19:59 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-25 11:19:59 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-25 11:20:12 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-25 11:20:13 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-25 11:20:13 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-25 11:20:16 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-25 11:20:16 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-25 11:20:17 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-25 11:20:17 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-25 11:20:21 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-25 11:20:21 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-03-25 12:09:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\TestNg_Project_Opencart\master.xml
+
+2026-03-25 12:10:21 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-25 12:10:22 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-25 12:10:23 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-25 12:10:23 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-25 12:10:28 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-25 12:10:29 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-25 12:10:29 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-25 12:10:35 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-25 12:10:36 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-25 12:10:37 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-25 12:10:37 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-25 12:10:40 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-25 12:10:40 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-03-25 12:14:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\TestNg_Project_Opencart\grid-docker.xml
+
+2026-03-25 12:14:41 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-25 12:14:42 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-25 12:14:44 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-25 12:14:44 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-25 12:14:49 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-25 12:14:49 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-25 12:14:49 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-25 12:14:55 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-25 12:14:56 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-25 12:14:58 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-25 12:14:58 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-25 12:15:00 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-25 12:15:00 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-03-25 12:15:26 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-25 12:15:27 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-25 12:15:30 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-25 12:15:30 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-25 12:15:34 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-25 12:15:34 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-25 12:15:34 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-25 12:15:50 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-25 12:15:51 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-25 12:15:53 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-25 12:15:53 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-25 12:15:56 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-25 12:15:56 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2026-03-25 12:31:42 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-25 12:31:43 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-25 12:31:45 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-25 12:31:45 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2026-03-25 12:31:49 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2026-03-25 12:31:49 INFO  TC_001_AccountRegistrationTest:48 - Test passed
+2026-03-25 12:31:49 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-25 12:31:55 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2026-03-25 12:31:55 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2026-03-25 12:31:57 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2026-03-25 12:31:57 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2026-03-25 12:31:59 INFO  TC_002_LoginTest:32 - clicked on login button..
+2026-03-25 12:32:00 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
